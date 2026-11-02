@@ -1,0 +1,1 @@
+# cc-to-ls-config
